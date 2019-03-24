@@ -1,4 +1,4 @@
-## Wekan in Rust
+## Wekan in Rust PWA
 
 Some parts of [Meteor-based Wekan](https://github.com/wekan/wekan) in Rust.
 
