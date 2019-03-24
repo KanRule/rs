@@ -13,4 +13,8 @@ Some parts of [Meteor-based Wekan](https://github.com/wekan/wekan) in Rust.
 ```
 ./start.sh
 ```
-Then http://localhost:3030 shows "Hello world!"
+Then after those all steps http://localhost:3030 shows "Hello world!"
+
+## Roadmap
+
+[Roadmap](https://github.com/wekan/wekan.rs/wiki/Roadmap)
